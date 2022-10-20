@@ -1,0 +1,17 @@
+.container {
+    width: 600px;
+    height: 390px;
+    background: url(../images/pole.jpeg) no-repeat;
+    margin: auto;
+    border: 1px solid greenyellow;
+}
+
+.ball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: url(../images/ball3.webp) no-repeat;
+    background-size: cover;
+    position: relative;
+    /* transition: all 1.5s; */
+}
